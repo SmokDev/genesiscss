@@ -1,0 +1,26 @@
+{
+  "name": "genesiscss",
+  "version": "0.0.0",
+  "description": "a lightweight and powerful theme-based css framework written in sass for creating beautiful and complex websites",
+  "main": "index.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmokDev/genesiscss.git"
+  },
+  "keywords": [
+    "Sass",
+    "styles",
+    "framework",
+    "themes",
+    "css"
+  ],
+  "author": "SmokDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmokDev/genesiscss/issues"
+  },
+  "homepage": "https://github.com/SmokDev/genesiscss#readme"
+}
